@@ -9,5 +9,5 @@ import jakarta.persistence.Table;
 public class AdminEntity {
 
 @Id
-private int name;
+private int dhawal;
 }
